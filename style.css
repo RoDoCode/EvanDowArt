@@ -24,6 +24,10 @@
     color: white;
 }
 
+.nav-text {
+    color: white !important;    
+}
+
 /* about section image css */
 .imageAboutPage {
     width: 100%;
