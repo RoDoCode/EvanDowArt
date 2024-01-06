@@ -50,11 +50,15 @@
 }
 
 .card:hover .servicesIcon {
-    color: #008000;
+    color: #f3dcaa;
 }
 
 .servicesText:hover {
-    border: 1px solid #008000;
+    border: 1px solid #f3dcaa;
+}
+
+.navbar {
+    background-color: black;
 }
 
 /* display background color black on navbar scroll */
